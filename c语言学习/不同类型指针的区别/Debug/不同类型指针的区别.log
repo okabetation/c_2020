@@ -1,0 +1,10 @@
+﻿  不同类型指针的区别.c
+d:\vsrepos\c语言学习\不同类型指针的区别\不同类型指针的区别.c(9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+d:\vsrepos\c语言学习\不同类型指针的区别\不同类型指针的区别.c(10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+d:\vsrepos\c语言学习\不同类型指针的区别\不同类型指针的区别.c(13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\vsrepos\c语言学习\不同类型指针的区别\不同类型指针的区别.c(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\vsrepos\c语言学习\不同类型指针的区别\不同类型指针的区别.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double *”
+d:\vsrepos\c语言学习\不同类型指针的区别\不同类型指针的区别.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double *”
+d:\vsrepos\c语言学习\不同类型指针的区别\不同类型指针的区别.c(29): warning C4133: “初始化”: 从“int *”到“short *”的类型不兼容
+d:\vsrepos\c语言学习\不同类型指针的区别\不同类型指针的区别.c(32): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  不同类型指针的区别.vcxproj -> D:\vsrepos\c语言学习\Debug\不同类型指针的区别.exe

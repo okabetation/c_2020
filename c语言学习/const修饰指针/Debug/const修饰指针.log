@@ -1,0 +1,3 @@
+﻿  const修饰指针.c
+d:\vsrepos\c语言学习\const修饰指针\const修饰指针.c(23): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *const *”
+  const修饰指针.vcxproj -> D:\vsrepos\c语言学习\Debug\const修饰指针.exe
