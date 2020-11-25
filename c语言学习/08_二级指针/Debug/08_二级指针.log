@@ -1,0 +1,8 @@
+﻿  08_二级指针.cpp
+d:\vsrepos\c语言学习\08_二级指针\08_二级指针.cpp(12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\vsrepos\c语言学习\08_二级指针\08_二级指针.cpp(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\vsrepos\c语言学习\08_二级指针\08_二级指针.cpp(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+d:\vsrepos\c语言学习\08_二级指针\08_二级指针.cpp(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+d:\vsrepos\c语言学习\08_二级指针\08_二级指针.cpp(19): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\vsrepos\c语言学习\08_二级指针\08_二级指针.cpp(21): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int ***”
+  08_二级指针.vcxproj -> D:\vsrepos\c语言学习\Debug\08_二级指针.exe

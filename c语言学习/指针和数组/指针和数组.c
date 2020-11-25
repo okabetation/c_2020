@@ -4,16 +4,16 @@
 #include<stdlib.h>
 
 void test01() {
-	int arr[5] = { 1,2,3,4,5 };
+	int arr[5] = { 10,20,30,40,50 };
 	
 	int * p = arr;	
-	printf("%d", *p++);		//1 先*p 再p++	首先解引用取值 再将指针自增
-	printf("%d", (*p)++);	//2	先*p 再*p++	首先解引用取值 再讲指针指向的值自增
-	printf("%d", *(p++));	//3	先++ 再*p	首先指针自增   再解引用取值
+	printf("%d\n", *p++);		//1 先*p 再p++	首先解引用取值 再将指针自增
+	printf("%d\n", (*p)++);	//2	先*p 再*p++	首先解引用取值 再讲指针指向的值自增
+	printf("%d\n", *(p++));	//3	先*p 再p++	首先解引用取值   再将指针则增
 
 	for (int i = 0; i < 5; i++)
 	{
-		printf("%d", arr[i]);	//13345
+		printf("%d\n", arr[i]);	//
 	}
 }
 void test02() {
@@ -26,8 +26,7 @@ void test02() {
 	printf("%d\n", (arr[1]));			//2 输出下标为1的元素
 }
 int main() {
-	test02();
-
+	test01();
 
 	system("pause");
 	return EXIT_SUCCESS;
